@@ -120,8 +120,7 @@ Supply-Chain-Performance-Analytics/
 
 ### Executive Dashboard
 
-![Executive Dashboard](Images/Dashboard/https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/Supply_Chain_Dashboard_Executive_Overview.png?raw=true)
-
+![Executive Dashboard](Images/Dashboard/Supply_Chain_Dashboard_Executive_Overview.png)
 ### Delivery & Logistics Dashboard
 
 ![Delivery Dashboard](Images/Dashboard/dashboard_page2.png)
