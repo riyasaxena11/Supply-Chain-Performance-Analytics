@@ -123,11 +123,11 @@ Supply-Chain-Performance-Analytics/
 
 ### Delivery & Logistics Dashboard
 
-![Delivery Dashboard](Images/Dashboard/dashboard_page2.png)
+![Delivery Dashboard](https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/Supply_Chain_Dashboard_Logistics_Performance.png?raw=true)
 
 ### Product & Profit Dashboard
 
-![Profit Dashboard](Images/Dashboard/dashboard_page3.png)
+![Profit Dashboard](https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/Supply_Chain_Dashboard_Product_Profitability.png?raw=true)
 
 ---
 
