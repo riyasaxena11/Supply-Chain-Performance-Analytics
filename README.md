@@ -140,11 +140,17 @@ Supply-Chain-Performance-Analytics/
 - Shipping Mode Analysis
 - Profit by Category
 
-![Top Regions](Images/SQL/top_regions_sales.png)
+![Top Regions](https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/top_regions_sales.png?raw=true)
 
-![Profit by Category](Images/SQL/profit_by_category.png)
+![Profit by Category](https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/profit_by_category.png?raw=true)
 
-![Delivery Status](Images/SQL/delivery_status_analysis.png)
+![Delivery Status](https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/delivery_status_analysis.png?raw=true)
+
+![Total Sales Analysis](https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/total_sales_analysis.png?raw=true)
+
+![Total Profit Analysis](https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/discount_profit_analysis.png?raw=true)
+
+![Shipping Mode Analysis](https://github.com/riyasaxena11/Supply-Chain-Performance-Analytics/blob/main/shipping_mode_analysis.png?raw=true)
 
 ---
 
